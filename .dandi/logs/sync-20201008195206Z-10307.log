@@ -1,3 +1,87 @@
 2020-10-08T15:52:07-0400 [INFO    ] dandi Traversing remote dandisets (000040) recursively
 2020-10-08T15:52:07-0400 [INFO    ] backups2datalad.py Updating metadata file
 2020-10-08T15:52:07-0400 [INFO    ] backups2datalad.py Commiting changes
+2020-10-08T15:52:08-0400 [INFO    ] backups2datalad.py Creating GitHub sibling for 000040
+2020-10-08T15:52:08-0400 [INFO    ] datalad.support.github_ Successfully obtained information about organization dandisets-testing using None credential
+2020-10-08T15:52:10-0400 [INFO    ] datalad.ui.dialog Clear progress bars
+2020-10-08T15:52:10-0400 [INFO    ] datalad.ui.dialog Refresh progress bars
+2020-10-08T15:52:10-0400 [INFO    ] backups2datalad.py Pushing to sibling
+2020-10-08T15:52:10-0400 [INFO    ] datalad.core.distributed.push Determine push target
+2020-10-08T15:52:10-0400 [INFO    ] datalad.core.distributed.push Push refspecs
+2020-10-08T15:52:10-0400 [INFO    ] datalad.core.distributed.push Transfer data
+2020-10-08T15:52:10-0400 [INFO    ] datalad.core.distributed.push Update availability information
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Start enumerating objects
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Finished enumerating objects
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Start counting objects
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:   5% (1/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  10% (2/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  15% (3/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  20% (4/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  25% (5/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  30% (6/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  35% (7/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  40% (8/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  45% (9/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  50% (10/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  55% (11/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  60% (12/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  65% (13/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  70% (14/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  75% (15/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  80% (16/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  85% (17/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  90% (18/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects:  95% (19/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects: 100% (20/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Counting objects: 100% (20/20), done.
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Finished counting objects
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Start compressing objects
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:   5% (1/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  11% (2/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  17% (3/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  23% (4/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  29% (5/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  35% (6/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  41% (7/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  47% (8/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  52% (9/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  58% (10/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  64% (11/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  70% (12/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  76% (13/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  82% (14/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  88% (15/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects:  94% (16/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects: 100% (17/17)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Compressing objects: 100% (17/17), done.
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Finished compressing objects
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Start writing objects
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:   5% (1/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  10% (2/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  15% (3/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  20% (4/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  25% (5/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  30% (6/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  35% (7/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  40% (8/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  45% (9/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  50% (10/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  55% (11/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  60% (12/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  65% (13/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  70% (14/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  75% (15/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  80% (16/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  85% (17/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  90% (18/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects:  95% (19/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects: 100% (20/20)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Writing objects: 100% (20/20), 2.26 KiB | 771.00 KiB/s, done.
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Finished writing objects
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Start resolving deltas
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas:   0% (0/3)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas:  66% (2/3)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas: 100% (3/3)
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas: 100% (3/3), done.
+2020-10-08T15:52:12-0400 [INFO    ] datalad.gitrepo Finished resolving deltas
+2020-10-08T15:52:14-0400 [INFO    ] datalad.core.distributed.push Finished push of Dataset(/mnt/backup/dandi/dandiarchive-replica/000040)
